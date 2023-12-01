@@ -5,7 +5,7 @@
 
 
 
-🌱 I'm preparing for a front-end developer.<br><br>
+🌱 매일 성정하는 프론트엔드 개발자 입니다.<br><br>
 
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
